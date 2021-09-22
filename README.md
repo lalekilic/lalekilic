@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lalekilic
 - 👀 I’m interested in K8s
-- 🌱 I’m currently learning Terraform
+- 🌱 I’m currently learning python ...
 
 
 <!---
